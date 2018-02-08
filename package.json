@@ -1,6 +1,6 @@
 {
   "name": "user-agent-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An array of user agent strings",
   "main": "index.js",
   "dependencies": {},
