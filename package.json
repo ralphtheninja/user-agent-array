@@ -1,0 +1,32 @@
+{
+  "name": "user-agent-array",
+  "version": "0.0.0",
+  "description": "An array of user agent strings",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "hyperquest": "^2.1.3",
+    "split2": "^2.2.0",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "homepage": "https://github.com/ralphtheninja/user-agent-array",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralphtheninja/user-agent-array.git"
+  },
+  "scripts": {
+    "test": "tape test && standard",
+    "scrape": "./scrape.js > user-agents.json"
+  },
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "keywords": [
+    "useragent",
+    "array",
+    "json"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT"
+}
