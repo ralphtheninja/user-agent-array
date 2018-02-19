@@ -1,5 +1,7 @@
 # user-agent-array
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ralphtheninja/user-agent-array.svg)](https://greenkeeper.io/)
+
 > An array of user agent strings.
 
 ![Node version](https://img.shields.io/node/v/user-agent-array.svg)
