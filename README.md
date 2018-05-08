@@ -1,9 +1,8 @@
 # user-agent-array
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ralphtheninja/user-agent-array.svg)](https://greenkeeper.io/)
-
 > An array of user agent strings.
 
+[![npm](https://img.shields.io/npm/v/user-agent-array.svg)](https://www.npmjs.com/package/user-agent-array)
 ![Node version](https://img.shields.io/node/v/user-agent-array.svg)
 [![Build Status](https://travis-ci.org/ralphtheninja/user-agent-array.svg?branch=master)](https://travis-ci.org/ralphtheninja/user-agent-array)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
